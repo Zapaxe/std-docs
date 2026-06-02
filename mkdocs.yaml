@@ -1,6 +1,6 @@
 site_name: Rux Standard Library
 site_description: Official reference documentation for the Rux Standard Library
-site_url: https://rux-lang.github.io/Std
+site_url: https://rux-lang.github.io
 
 repo_name: rux-lang/Std
 repo_url: https://github.com/rux-lang/Std
@@ -14,7 +14,6 @@ theme:
 
   logo: assets/logo.png
   favicon: assets/logo.png
-  site_url: https://rux-lang.github.io/Std/
 
   icon:
     repo: fontawesome/brands/github
