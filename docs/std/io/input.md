@@ -8,7 +8,7 @@ Reads a line of text from standard input.
 
 ```rux
 import Std::Io::{ ReadLine, PrintLine };
-import Std::Format;
+import Std::Display;
 
 func Main() -> int {
     PrintLine("Enter your name:");
